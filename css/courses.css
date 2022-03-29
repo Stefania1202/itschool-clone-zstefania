@@ -1,0 +1,16 @@
+.cursuriIT-text {
+  background-color: var(--bg-primary);
+  height: 350px;
+  color: var(--text-light);
+  font-size: 380%;
+}
+
+.titlu-programe {
+  color: var(--bg-dark);
+  padding: 30px 0px;
+}
+
+.paragraf-style {
+  color: var(--bg-dark);
+  text-align: center;
+}
